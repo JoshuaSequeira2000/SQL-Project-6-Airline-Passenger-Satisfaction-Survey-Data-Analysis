@@ -1,1 +1,1 @@
-# SQL-Project6-Exploratory-Data-Analysis
+# SQL Project 6 - Exploratory Data Analysis - Airline Passenger Satisfaction Survey Data Analysis
