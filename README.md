@@ -1,22 +1,22 @@
 # SQL Project 6 - Exploratory Data Analysis - Airline Passenger Satisfaction Survey Data Analysis
 
 ### 1) Satisfaction Vs Dissatisfaction rate.
-![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/4d756376-67aa-4701-8a6d-d296fe574982)
+![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/4d756376-67aa-4701-8a6d-d296fe574982)\
 Result:\
 The satisfaction count dropped below 50% at a total of 43.45%.
 
 ### 2a) Number of Male Vs Female passengers.
-![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/6e6f219a-6320-42ed-b99e-bd67f0dc49e1)
+![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/6e6f219a-6320-42ed-b99e-bd67f0dc49e1)\
 Result:\
 Roughly 2,000 more female passengers than male passengers.
 
 ### 2b) Number of Male Vs Female passengers who are satisfied/dissatisfied.
-![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/461717fa-b1e2-4d53-ae45-2149436fa772)
+![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/461717fa-b1e2-4d53-ae45-2149436fa772)\
 Result:\
 The dissatisfaction rate was higher for both male and female passengers.
 
 ### 3) Number of Male vs Female passengers who are satisfied/dissatisfied based on age brackets.
-![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/46aeeb76-9a0f-4e30-9da1-30ed15e365ee)
+![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/46aeeb76-9a0f-4e30-9da1-30ed15e365ee)\
 Result:\
 The highest dissatisfaction rate was found in Female adults between the ages of 30 and 59.\
 The lowest dissatisfaction rate was found in Male Seniors, aged 60 & above.\
@@ -24,13 +24,13 @@ The highest satisfaction rate was found in Male adults between the ages of 30 an
 The lowest satisfaction rate was found in Children (both male and female) between the age of 7 to 18.
 
 ### 4) Satisfaction rate based on Flight Class. 
-![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/0845c769-9ee9-43a5-82c2-b5a527c94518)
+![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/0845c769-9ee9-43a5-82c2-b5a527c94518)\
 Result:\
 As found within the data, the majority of Business class passengers felt satisfied with their flight. The total satisfaction rate was approx 70%.\
 The highest dissatisfaction rate was found in Ecomony class passengers with a total of 81.23%, followed by Ecomony Plus passengers at 75.36%.
 
 ### 5) Satisfaction rate based on Customer Type.
-![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/a169c3b4-c73e-4360-bfad-5d23ba7fd1f6)
+![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/a169c3b4-c73e-4360-bfad-5d23ba7fd1f6)\
 Result:\
 The ratio between satisfied and dissatisfied passengers was higher for first-time travelers as compared to returning passengers.\
 Approx 76% of first-time passengers were dissatisfied, while for returning passengers, the ratio was closer, at approx 47:52.
@@ -76,7 +76,7 @@ Approx 76% of first-time passengers were dissatisfied, while for returning passe
 ![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/71a3727c-d8da-4a98-8cab-5a907d76d8d8)
 
 ### 6n) Avg Baggage_Handling.
-![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/84a482a3-f130-4c5c-894e-b0aaf66ff160)
+![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/84a482a3-f130-4c5c-894e-b0aaf66ff160)\
 Result:\
 In-flight Wifi service and online booking were ranked the worse by passengers with an average score of 2.73 and 2.76 respectively.\
 In-flight service and baggage handling were ranked the highest by passengers with an average score of 3.64 and 3.63 respectively.
