@@ -1,5 +1,9 @@
 # SQL Project 6 - Exploratory Data Analysis - Airline Passenger Satisfaction Survey Data Analysis
 
+## Complete code attached - Airline Passenger Satisfaction.sql
+
+## Data Insights Using SQL.
+
 ### 1) Satisfaction Vs Dissatisfaction rate.
 ![image](https://github.com/JoshuaSequeira2000/SQL-Project-6-Airline-Passenger-Satisfaction-Survey-Data-Analysis/assets/92262753/4d756376-67aa-4701-8a6d-d296fe574982)\
 Result:\
